@@ -1,16 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Nikita's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Nikita Gupta
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  # Do not include the @ symbol in your Twitter username
+  bio: "Class of 2026"
+  email: ng2694@nyu.edu
   twitter: #username
   linkedin: #username
   github: #username
