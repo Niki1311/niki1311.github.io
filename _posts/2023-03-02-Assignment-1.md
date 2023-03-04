@@ -2,6 +2,7 @@
 layout: post
 title: Digital Literacy Narrative
 modified: 2/21/2023, 9:00:24
+excerpt: "What is a static website generator, and why should I care?"
 tags: [intro, digital literacy, post, assignment]
 comments: true
 category: blog
