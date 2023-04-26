@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DLME
+title: Assignement 1
 excerpt: "Library"
 modified: 2/21/2023, 9:00:24
 tags: [intro, digital literacy, post, assignment]
