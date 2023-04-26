@@ -1,12 +1,14 @@
 ---
 layout: post
 title: DLME
-modified: 2/21/2023, 9:00:24
 excerpt: "Library"
+modified: 2/21/2023, 9:00:24
 tags: [intro, digital literacy, post, assignment]
 comments: true
 category: blog
 ---
+
+
 #### We have retrieved two captivating images from the Digital Library of the Middle East. The first one titled “The flight of Baz Bahadur, ruler of Malwa, after his defeat by the Mughals” portrays the flight of Baz Bahadur, the dethroned leader of Malwa, who is seen escaping from the Mughals. The second image titled  “A battle between the Mughals and Muhammad Husain Mirza near Ahmadabad” captures a gripping encounter between the Mughals and Muhammad Husain Mirza, which occurred in the vicinity of Ahmadabad.
 <<<<<<< HEAD:_posts/Assignment DLME
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
