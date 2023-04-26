@@ -1,10 +1,8 @@
 ---
 layout: post
-<<<<<<< HEAD:_posts/Assignment DLME
 title: DLME
 modified: 2/21/2023, 9:00:24
 excerpt: "Library"
->>>>>>> dd07220e0ca3d76c7989ee87e7d1b0235e1f4c61:_posts/2023-03-03-Assignment-DLME.md
 tags: [intro, digital literacy, post, assignment]
 comments: true
 category: blog
