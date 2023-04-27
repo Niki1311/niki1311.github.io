@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Hi! My name is Nikita Gupta.
+    ## Hi!! My name is Nikita Gupta :)))
     ---
     ## Rising Sophomore
     Class of 2026.
