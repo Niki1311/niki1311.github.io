@@ -2,7 +2,7 @@
 layout: slide
 title: Presentation
 excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-# theme: simple
+theme: calibri
 transition: convex
 tags: [presentation]
 category: presentation
