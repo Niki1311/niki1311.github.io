@@ -2,8 +2,8 @@
 layout: slide
 title: Presentation
 excerpt: a recreation of the existing sample presentation"
-theme: calibri
-transition: concave
+theme: night
+transition: zoom
 tags: [presentation]
 category: presentation
 ---
@@ -12,7 +12,7 @@ category: presentation
     ## Hi! My name is Nikita Gupta.
     ---
     ## Rising Sophomore
-    Class of 2026. Use whatever you are more comfortable with.
+    Class of 2026.
     ---
     ## Majors and Minors
     Double Majoring in Computer Science and Interactive Media. Minoring in Psychology.
