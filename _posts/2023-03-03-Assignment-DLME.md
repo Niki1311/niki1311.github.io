@@ -56,6 +56,8 @@ The Digital Library of the Middle East has provided us with comprehensive metada
 Is part of: Stuart Cary Welch Islamic and South Asian| Is part of: Stuart Cary Welch Islamic and South Asian 
               Photographic Collection                |                 Photographic Collection
 ************************************************************************************************************
+
+
 ### Object History
 #### The illustration is from the Akbarnama (Book of Akbar) which depicts the flight of Baz Bahadur, ruler of Malwa in north central India, after his defeat by the Mughals led by Adham Khan in 1561. In the foreground, soldiers fight; in the background is the fort of Malwa, with the Hindu ladies of the household shown at top right.It was sourced from the Akbarnama, also known as the Book of Akbar, which was commissioned by the Mughal emperor Akbar (1556-1605) as the official chronicle of his reign. Abu’l Fazl, Akbar's court historian and biographer, wrote the text in Persian between 1590 and 1596. The V&A museum holds a partial copy of the manuscript, which is believed to have been illustrated between 1592 and 1595, making it the earliest known illustrated version of the text. The illustrations were created by some of the most skilled royal artists of the time, whose names are listed by Abu’l Fazl in the third volume of the text, the A’in-i Akbari. Some of these names are also present in the V&A illustrations, written in red ink beneath the images, suggesting that this was a royal copy created specifically for Akbar. After Akbar's death, the manuscript remained in the possession of his son Jahangir, who later passed it down to Shah Jahan. 
 ### Object History
