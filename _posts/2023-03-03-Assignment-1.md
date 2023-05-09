@@ -9,7 +9,7 @@ category: blog
 ---
 
 
-We have retrieved two captivating images from the Digital Library of the Middle East. The first one titled “The flight of Baz Bahadur, ruler of Malwa, after his defeat by the Mughals” portrays the flight of Baz Bahadur, the dethroned leader of Malwa, who is seen escaping from the Mughals. The second image titled  “A battle between the Mughals and Muhammad Husain Mirza near Ahmadabad” captures a gripping encounter between the Mughals and Muhammad Husain Mirza, which occurred in the vicinity of Ahmadabad.
+We both have retrieved two captivating images from the Digital Library of the Middle East. The first one titled “The flight of Baz Bahadur, ruler of Malwa, after his defeat by the Mughals” portrays the flight of Baz Bahadur, the dethroned leader of Malwa, who is seen escaping from the Mughals. The second image titled  “A battle between the Mughals and Muhammad Husain Mirza near Ahmadabad” captures a gripping encounter between the Mughals and Muhammad Husain Mirza, which occurred in the vicinity of Ahmadabad.
 
 <img src="/images/image3.png" style="width:80%; height:50%; margin-left:10%;" />
 
