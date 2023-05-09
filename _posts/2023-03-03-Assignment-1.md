@@ -15,13 +15,13 @@ We have retrieved two captivating images from the Digital Library of the Middle 
 
 image citation: Fine Arts Library, Harvard University. (n.d.). A battle between the Mughals and Muhammad Husain Mirza near Ahmadabad (Is.2:98-1896) 15145155. 
 
-Digital Library of the Middle East has provided us with comprehensive metadata for both the images facilitating our ability to locate the images effortlessly on search engines such as Google and discover additional details about them. Here is an overview of the metadata provided on the website for each of the aforementioned images.
+The Digital Library of the Middle East has provided us with comprehensive metadata for both the images facilitating our ability to locate the images effortlessly on search engines such as Google and discover additional details about them. Here is an overview of the metadata provided on the website for each of the aforementioned images.
 
-***********************************************************************************************************
+-----------------------------------------------------------------------------------------------------------
      The flight of Baz Bahadur ruler of Malwa,       |      A battle between the Mughals and Muhammad
            after his defeat by the Mughals           |             Husain Mirza near Ahmadabad
                                                      |
-***********************************************************************************************************
+-----------------------------------------------------------------------------------------------------------
                                                      |
                    Date: 1590                        |                     Date: 1590
 -----------------------------------------------------|-----------------------------------------------------
