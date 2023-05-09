@@ -8,8 +8,7 @@ comments: true
 category: blog
 ---
 
-
-For our image classification assignment, Nikita and I selected two datasets using Instagram and Google Images. We chose four random fashion photographers from Instagram, namely Brandon Woelfel, Theo Wenner, Petra Collins and Faye, whose images mainly focus on the manipulation of light. 
+For the image classification assignment, Nikita and I selected two datasets using Instagram and Google Images. We chose four random fashion photographers from Instagram, namely Brandon Woelfel, Theo Wenner, Petra Collins and Faye, whose images mainly focus on the manipulation of light. 
 
 <img src="/images/img1.jpeg" style="width:80%; height:50%; margin-left:10%;" />
 
