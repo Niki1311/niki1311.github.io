@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-To enhance the clarity and organization of our assignment, we have selected two literary works, namely "Pride and Prejudice" and "Emma" by Jane Austen which are available on Project Gutenberg. Our analysis is divided into three main sections. First, I will discuss "Pride and Prejudice," while Nikita will focus on "Emma." Finally, we will collaborate to compare and contrast our findings related to each corpus. Our goal is to present our individual perspectives in a clear and concise manner, while also fostering meaningful discussions to examine the similarities and differences between these two renowned works by Jane Austen. We believe that this structured approach will enable us to gain valuable insights and perspectives.
+In order to enhance the clarity and organization of our assignment, we have selected two literary works, namely "Pride and Prejudice" and "Emma" by Jane Austen which are available on Project Gutenberg. Our analysis is divided into three main sections. First, I will discuss "Pride and Prejudice," while Nikita will focus on "Emma." Finally, we will collaborate to compare and contrast our findings related to each corpus. Our goal is to present our individual perspectives in a clear and concise manner, while also fostering meaningful discussions to examine the similarities and differences between these two renowned works by Jane Austen. We believe that this structured approach will enable us to gain valuable insights and perspectives.
 
 
 #### Pride and Prejudice
