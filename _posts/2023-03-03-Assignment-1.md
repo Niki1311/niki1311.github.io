@@ -15,7 +15,7 @@ We have retrieved two captivating images from the Digital Library of the Middle 
 
 image citation: Fine Arts Library, Harvard University. (n.d.). A battle between the Mughals and Muhammad Husain Mirza near Ahmadabad (Is.2:98-1896) 15145155. 
 
-The Digital Library of the Middle East has provided us with comprehensive metadata for both the images facilitating our ability to locate the images effortlessly on search engines such as Google and discover additional details about them. Here is an overview of the metadata provided on the website for each of the aforementioned images.
+Digital Library of the Middle East has provided us with comprehensive metadata for both the images facilitating our ability to locate the images effortlessly on search engines such as Google and discover additional details about them. Here is an overview of the metadata provided on the website for each of the aforementioned images.
 
 -----------------------------------------------------------------------------------------------------------
      The flight of Baz Bahadur ruler of Malwa,       |      A battle between the Mughals and Muhammad
@@ -43,18 +43,19 @@ The Digital Library of the Middle East has provided us with comprehensive metada
                 Kings and Rulers                     |                     Kings and Rulers
                      Battles                         |                         Battles
              Extent: 32.8 x 19.2 cm.                 |                 Extent: 32.8 x 19.2 cm.
------------------------------------------------------|------------------------------------------------------
+-----------------------------------------------------|-----------------------------------------------------
       Holding institution: Fine Arts Library,        |          Holding institution: Fine Arts Library, 
                Harvard University                    |                    Harvard University
------------------------------------------------------|------------------------------------------------------
+-----------------------------------------------------|-----------------------------------------------------
      Data provider: Harvard University Library       |         Data provider: Harvard University Library
------------------------------------------------------|------------------------------------------------------
+-----------------------------------------------------|-----------------------------------------------------
    Rights: (CC BY-NC-SA) Attribution: Harvard Fine   |      Rights: (CC BY-NC-SA) Attribution: Harvard Fine 
    Arts Library, Special Collections SCW2016.07911   |      Arts Library, Special Collections SCW2016.07911
------------------------------------------------------|------------------------------------------------------
+-----------------------------------------------------|-----------------------------------------------------
        Identifier: W414482_URN-3:FHCL:27031994       |          Identifier: W414482_URN-3:FHCL:27031994
------------------------------------------------------|------------------------------------------------------
-Is part of: Stuart Cary Welch Islamic and South Asian| Is part of: Stuart Cary Welch Islamic and South Asian 
+-----------------------------------------------------|-----------------------------------------------------
+Is part of:Stuart Cary Welch Islamic and South Asian | Is part of:Stuart Cary Welch Islamic and South Asian
+-----------------------------------------------------|-----------------------------------------------------
               Photographic Collection                |                 Photographic Collection
 -----------------------------------------------------|-----------------------------------------------------
 
