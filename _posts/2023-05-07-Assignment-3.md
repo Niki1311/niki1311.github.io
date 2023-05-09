@@ -11,7 +11,7 @@ category: blog
 
 For our image classification assignment, Nikita and I selected two datasets using Instagram and Google Images. We chose four random fashion photographers from Instagram, namely Brandon Woelfel, Theo Wenner, Petra Collins and Faye, whose images mainly focus on the manipulation of light. 
 
-<img src="/images/img1.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/images/img1.jpeg" style="width:80%; height:50%; margin-left:10%;" />
 
 We attempted to use the clustering method shown in video 14 but found that it did not work well for our dataset. Unlike the example shown in the tutorial, it was unable to cluster images from the same photographer together and instead mixed them with images from other photographers. We initially thought that Orange was classifying images based on lighting, but upon closer examination, we realized that it was having difficulty distinguishing between images that had similar compositions, even if they were taken by different photographers. 
 
@@ -23,11 +23,11 @@ For example, images of Brandon were mixed with an image from Petra because they 
 
 Similarly, we saw this in another cluster where the images of Petra were mixed with one from Faye, despite the lighting being different in all four images. The commonality lay in the composition, where they both had their subjects' faces zoomed in for portraits. 
 
-<img src="/images/img4.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/images/img4.jpeg" style="width:80%; height:50%; margin-left:10%;" />
 
 When we examined a cluster where all four photographers were together, we suspected that the algorithm was picking up on the features of the subjects,such as hair and eye color, in addition to the photographic style. In the image classification task, we had to choose a different dataset of 100 images as the previous dataset with 40 images and 4 photographers did not yield satisfactory results. For this, we selected 10 different colors of outfits in wedding couple photos, namely pink, white, blue, green, black, orange, red, yellow, light green, and purple, randomly obtained from Google. 
 
-<img src="/images/img5.png" style="width:80%; height:50%; margin-left:10%;" />
+<img src="/images/img5.jpeg" style="width:80%; height:50%; margin-left:10%;" />
 
 The confusion matrix obtained from the analysis revealed that white and dark green were the most accurately predicted colors, with a value of 6, followed by black, light green, and yellow, with a value of 5. Orange and pink had a value of 4, while purple had a value of 3, and blue and red had the lowest value of 2, as the algorithm often confused them with other similar colors, thus lacking accuracy. An interesting observation from the confusion matrix was that there were instances where the probability of a color being confused with a predicted color was high, but not vice versa. This indicated that if the algorithm perceived a color to be another similar color, it would not necessarily confuse the other color with the first one, as the second color could be more evident in the image, forcing the algorithm to identify it as that color. For example, in the confusion matrix, the actual color orange had a predicted value of 3 of being perceived as yellow, whereas in the reverse case, where the actual color was yellow, it had a predicted value of 2 of being predicted as orange. This was due to the visible presence of yellow in the image, which was easily identified by the algorithm. Similar cases were noticeable in blue and purple, black and dark green, and so on. 
 
