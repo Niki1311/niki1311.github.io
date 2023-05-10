@@ -1,7 +1,7 @@
 ---
 layout: slide
 title: Final Project Presentation
-excerpt: "Unproject idea"
+excerpt: "Unproject idea slides"
 theme: night
 transition: zoom
 tags: [presentation]
@@ -9,7 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Safer Routes: Using Traffic Analysis and a Next-Gen Wayfinding App to Improve Road Safety and Comfortable Navigation
+    ### Safer Routes: Using Traffic Analysis and a Next-Gen Wayfinding App to Improve Road Safety and Comfortable Navigation
     ---
     ## Scope
     The project's main focus is to analyze traffic data to identify areas with high accident rates and suggest possible interventions to improve safety, as well as to develop a new generational wayfinding app for comfortable routes. The app will allow users to input their preferences for routes, such as avoiding busy roads, and give alternate routes to the people.
