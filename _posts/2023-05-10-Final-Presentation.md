@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: Presentation
-excerpt: a recreation of the existing sample presentation"
+title: Final Project Presentation
+excerpt: "Unproject idea"
 theme: night
 transition: zoom
 tags: [presentation]
