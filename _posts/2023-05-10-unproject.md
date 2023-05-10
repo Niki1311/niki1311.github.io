@@ -2,7 +2,7 @@
 layout: slide
 title: Final Project Presentation
 excerpt: "Unproject idea slides"
-theme: night
+theme: blood
 transition: zoom
 tags: [presentation]
 category: presentation
@@ -66,11 +66,7 @@ category: presentation
     ## Phase 5: Dissemination and Participation
     1. Disseminate the app to potential users and stakeholders, including local government agencies, transportation authorities, and the general public
 2. Utilize participatory architecture and crowdsourcing to collect additional data and improve the app's functionality
-3. Continuously monitor and update the app based on new data and user feedback
-
-    
-    
-    
+3. Continuously monitor and update the app based on new data and user feedback   
     
   </textarea>
 </section>
