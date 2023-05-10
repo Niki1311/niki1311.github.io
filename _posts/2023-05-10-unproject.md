@@ -2,7 +2,7 @@
 layout: slide
 title: Final Project Presentation
 excerpt: "Unproject idea slides"
-theme: blood
+theme: night
 transition: zoom
 tags: [presentation]
 category: presentation
@@ -14,6 +14,7 @@ category: presentation
     ---
     ## Scope
     The project's main focus is to analyze traffic data to identify areas with high accident rates and suggest possible interventions to improve safety, as well as to develop a new generational wayfinding app for comfortable routes. The app will allow users to input their preferences for routes, such as avoiding busy roads, and give alternate routes to the people.
+    <img src="/images/traffic1.jpg" style="width:60%; height:30%; margin-left:10%;" />
 
     ---
     ## Data
@@ -29,7 +30,6 @@ category: presentation
     ---
     ## Values and Ethics
     The project values the safety of individuals and ethical practices in data collection and analysis. The project will adhere to ethical guidelines for data collection and ensure the privacy of individuals.
-    <img src="/images/img1.jpeg" style="width:80%; height:50%; margin-left:10%;" />
     
     ---
     ## Resources
@@ -42,32 +42,32 @@ category: presentation
     ---
     ## Phase 1: Data Collection
     1. Identify sources of traffic data, including accident reports, traffic volume, and road condition data
-2. Obtain necessary permissions and agreements to access the data
-3. Digitize the data and organize it in a database for analysis
+    2. Obtain necessary permissions and agreements to access the data
+    3. Digitize the data and organize it in a database for analysis
 
     ---
     ## Phase 2: Data Analysis
     1. Analyze the traffic data to identify areas with high accident rates and factors contributing to accidents
-2. Conduct statistical analyses to determine correlations and patterns in the data
-3. Utilize machine learning algorithms to predict accident rates and identify potential interventions for improvement
+    2. Conduct statistical analyses to determine correlations and patterns in the data
+    3. Utilize machine learning algorithms to predict accident rates and identify potential interventions for improvement
 
     ---
     ## Phase 3: App Development
     1. Develop the wayfinding app with input from traffic engineers, data scientists, and software developers
-2. Incorporate user preferences for routes, such as avoiding busy roads, and alternate routes
-3. Utilize natural language processing and mapping software to optimize routes and provide user-friendly directions
+    2. Incorporate user preferences for routes, such as avoiding busy roads, and alternate routes
+    3. Utilize natural language processing and mapping software to optimize routes and provide user-friendly directions
 
     ---
     ## Phase 4: Testing and Evaluation
     1. Test the app in simulated and real-world scenarios to identify bugs and potential issues
-2. Collect user feedback and evaluate the effectiveness of the app in providing comfortable routes and improving safety
-3. Modify the app based on feedback and evaluation
+    2. Collect user feedback and evaluate the effectiveness of the app in providing comfortable routes and improving safety
+    3. Modify the app based on feedback and evaluation
 
     ---
-    ## Phase 5: Dissemination and Participation
+    #### Phase 5: Dissemination and Participation
     1. Disseminate the app to potential users and stakeholders, including local government agencies, transportation authorities, and the general public
-2. Utilize participatory architecture and crowdsourcing to collect additional data and improve the app's functionality
-3. Continuously monitor and update the app based on new data and user feedback   
+    2. Utilize participatory architecture and crowdsourcing to collect additional data and improve the app's functionality
+    3. Continuously monitor and update the app based on new data and user feedback   
     
   </textarea>
 </section>
