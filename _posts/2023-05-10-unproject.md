@@ -9,14 +9,13 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    <img src="/images/bg.jpg" style="width:100%; height:100%;" />
     #### Safer Routes: Using Traffic Analysis and a Next-Gen Wayfinding App to Improve Road Safety and Comfortable Navigation
     
     ---
     ## Scope
     ###### The project's main focus is to analyze traffic data to identify areas with high accident rates and suggest possible interventions to improve safety, as well as to develop a new generational wayfinding app for comfortable routes. 
     ###### The app will allow users to input their preferences for routes, such as avoiding busy roads, and give alternate routes to the people.
-    <img src="/images/traffic1.jpg" style="width:30%; height:10%; margin-left:30%;" />
+    <img src="/images/traffic1.jpg" style="width:30%; height:10%;" />
     
 
     ---
