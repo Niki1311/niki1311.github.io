@@ -7,7 +7,7 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
-[The google drive link to all the images used in this assignment] (https://drive.google.com/drive/folders/1-EMU82xMCuYwnoKNSAnFlOFNJcVWoRPK?usp=share_link)
+[The google drive link to all the images used in this assignment](https://drive.google.com/drive/folders/1-EMU82xMCuYwnoKNSAnFlOFNJcVWoRPK?usp=share_link)
 
 For the image classification assignment, Nikita and I selected two datasets using Instagram and Google Images. We chose four random fashion photographers from Instagram, namely Brandon Woelfel, Theo Wenner, Petra Collins and Faye, whose images mainly focus on the manipulation of light. 
 
