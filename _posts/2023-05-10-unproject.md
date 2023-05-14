@@ -72,5 +72,7 @@ category: presentation
     2. Utilize participatory architecture and crowdsourcing to collect additional data and improve the app's functionality
     3. Continuously monitor and update the app based on new data and user feedback   
     
+    ---
+    # Thank you!!
   </textarea>
 </section>
