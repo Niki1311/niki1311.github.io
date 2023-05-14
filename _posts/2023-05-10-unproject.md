@@ -33,6 +33,7 @@ category: presentation
     ---
     ## Values and Ethics
     The project values the safety of individuals and ethical practices in data collection and analysis. The project will adhere to ethical guidelines for data collection and ensure the privacy of individuals.
+    <img src="/images/value.jpg" style="width:30%; height:10%;" />
     
     ---
     ## Resources
