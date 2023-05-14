@@ -2,8 +2,8 @@
 layout: slide
 title: Presentation
 excerpt: a recreation of the existing sample presentation"
-theme: night
-transition: zoom
+theme: dracula
+transition: concave
 tags: [presentation]
 category: presentation
 ---
