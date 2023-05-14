@@ -2,7 +2,7 @@
 layout: slide
 title: Presentation
 excerpt: a recreation of the existing sample presentation"
-theme: dracula
+theme: moon
 transition: concave
 tags: [presentation]
 category: presentation
