@@ -9,6 +9,7 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
+    <img src="/images/traffic1.jpg" style="width:100%; height:100%;" />
     #### Safer Routes: Using Traffic Analysis and a Next-Gen Wayfinding App to Improve Road Safety and Comfortable Navigation
     
     ---
